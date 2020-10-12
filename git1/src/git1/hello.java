@@ -6,6 +6,8 @@ public class hello {
 		// TODO Auto-generated method stub
 		System.out.println("Hello Done Dana Done");
 		System.out.println("Hello Done Dana Done from Web Server");
+
+		System.out.println("Hello Done Dana Done from Eclipse");
 	}
 
 }
